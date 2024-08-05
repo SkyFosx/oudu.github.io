@@ -8,6 +8,6 @@ redirect_from:
 ---
 Hello, This is Dai Wei!
 
-Currently employed at Alibaba [email me](ross.dw@alibaba-inc.com)
+Currently employed at Alibaba (ross.dw@alibaba-inc.com)
 
-Graduated from Southeast University on 2024.6 [email me](220215877@seu.edu.cn)
+Graduated from Southeast University in June 2024 (220215877@seu.edu.cn)
