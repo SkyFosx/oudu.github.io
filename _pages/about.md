@@ -6,6 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Hello, This is Dai Wei!
 Graduated from Southeast University on 2024.6 (220215877@seu.edu.cn)
 Currently employed at Alibaba(ross.dw@alibaba-inc.com)
